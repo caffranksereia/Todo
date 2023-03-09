@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+### Todo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About Project
 
-## Available Scripts
+This project is a study to remember how to develop in REACT together python and mongodb
+using S.O.L.I.D
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -68,4 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"#Todo" 
+
+### About Me
+My nickname is caffranksereia but mas real name s Fabio Eduardo.
